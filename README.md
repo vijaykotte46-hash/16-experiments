@@ -4,7 +4,7 @@
 
 Faculty: Mr. Hirendra Singh Sengar  
 Course: Cryptography & Network Security (CSL0509)  
-Repository: [https://github.com/ganeshpalipi/Cryptography-Lab](https://github.com/ganeshpalipi/Cryptography-Lab)
+Repository: [https://github.com/vijaykotte46-hash/16-experiments](https://github.com/vijaykotte46-hash/16-experiments)
 
 ---
 

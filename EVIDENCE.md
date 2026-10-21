@@ -2,7 +2,7 @@
 
 ## Source and scope
 
-- Base repository: https://github.com/ganeshpalipi/Cryptography-Lab
+- Repository: https://github.com/vijaykotte46-hash/16-experiments
 - Starting commit: 67a9c1b (the full commit is retained in Git history).
 - Requirements: supplied Cryptography CSL0509 activity document, academic year 2026–27.
 - Existing Experiments 1–2 were preserved; only Experiment 2's doubled PNG extensions were corrected.
