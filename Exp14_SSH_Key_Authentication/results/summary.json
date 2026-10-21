@@ -1,0 +1,6 @@
+{
+  "rsa_bits": 3072,
+  "key_generation_verified": true,
+  "two_system_authentication_verified": false,
+  "kali_environment": false
+}

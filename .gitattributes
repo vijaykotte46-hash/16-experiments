@@ -1,0 +1,12 @@
+*.py text eol=lf
+*.md text eol=lf
+*.txt text eol=lf
+*.json text eol=lf
+*.csv text eol=lf
+*.pem text eol=lf
+*.pub text eol=lf
+*.png binary
+*.bin binary
+*.cwm binary
+*.pcapng binary
+*.pkt binary

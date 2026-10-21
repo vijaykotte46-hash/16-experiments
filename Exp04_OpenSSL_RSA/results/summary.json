@@ -1,0 +1,10 @@
+{
+  "rsa_bits": 3072,
+  "oaep_digest": "SHA-256",
+  "plaintext_bytes": 68,
+  "ciphertext_bytes": 384,
+  "exact_round_trip": true,
+  "tamper_rejected": true,
+  "oversized_input_rejected": true,
+  "private_key_published": false
+}

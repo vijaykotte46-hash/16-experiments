@@ -1,0 +1,10 @@
+{
+  "toy_rsa_ciphertext": 2790,
+  "toy_dh_shared": 2,
+  "rsa_oaep_round_trip": true,
+  "dh_group_bits": 2048,
+  "dh_shared_secret_matches": true,
+  "hkdf_keys_match": true,
+  "aes_gcm_round_trip": true,
+  "peer_authentication_implemented": false
+}

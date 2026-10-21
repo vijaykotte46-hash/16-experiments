@@ -1,0 +1,13 @@
+{
+  "subject": "C=IN,O=Cryptography Lab,CN=localhost",
+  "key_bits": 3072,
+  "requested_validity_days": 365,
+  "san": [
+    "DNS:localhost",
+    "IP:127.0.0.1"
+  ],
+  "is_ca": false,
+  "explicit_trust_verification": true,
+  "wrong_hostname_rejected": true,
+  "untrusted_self_signed_rejected": true
+}

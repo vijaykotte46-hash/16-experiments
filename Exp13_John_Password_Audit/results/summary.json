@@ -1,0 +1,9 @@
+{
+  "target": "three synthetic lab hashes",
+  "hash_format": "sha512crypt",
+  "dictionary_entries": 4,
+  "weak_password_recovered": true,
+  "bounded_three_digit_pin_recovered": true,
+  "long_sample_recovered_in_dictionary": false,
+  "kali_environment": false
+}

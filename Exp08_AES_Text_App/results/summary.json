@@ -1,0 +1,9 @@
+{
+  "algorithm": "AES-256-GCM",
+  "unicode_round_trip": true,
+  "empty_message_round_trip": true,
+  "sha256": "c35aca68dc76d4e9acf4659604197b42b582918d8143bbe0f9ee008ffdcd5c03",
+  "tamper_rejected": true,
+  "wrong_key_rejected": true,
+  "fresh_nonce_verified": true
+}

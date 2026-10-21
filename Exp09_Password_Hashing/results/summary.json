@@ -1,0 +1,15 @@
+{
+  "unsalted_equal_for_equal_passwords": true,
+  "different_salts_change_hash": true,
+  "dictionary_entries": 5,
+  "weak_password_recovered_with_all_three_methods": true,
+  "scrypt_hash_ms": 47.58,
+  "scrypt_dictionary_ms": 143.54,
+  "wrong_password_rejected": true,
+  "second_sample_in_dictionary": false,
+  "scrypt_parameters": {
+    "N": 16384,
+    "r": 8,
+    "p": 1
+  }
+}

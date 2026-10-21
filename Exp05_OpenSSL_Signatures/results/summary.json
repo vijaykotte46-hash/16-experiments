@@ -1,0 +1,7 @@
+{
+  "sha256_original": "9ec4f09c60b187e68d8aa8e8614b698b3d77cee8d8636d0a3675757322198ad3",
+  "sha256_modified": "8fa38a28341947a8fffd5209ea6067b703a41ab19b929207efb4a63c11bf36f4",
+  "signature_scheme": "RSA-PSS SHA-256",
+  "valid_signature_accepted": true,
+  "modified_message_rejected": true
+}

@@ -1,0 +1,6 @@
+{
+  "version": 1,
+  "algorithm": "AES-256-GCM",
+  "nonce": "g4BK8b5It8sMAUit",
+  "ciphertext_and_tag": "NYpAvSM3Ymhdl3iJV9MkBQwoJLVvOosmIzyIKPm53GIXsfhoqp8kMK1HZTn6W/63rQ8zM6fAR+qGl0U0+hpYKlpoSLFs+M9z+1ssl1uFgho="
+}

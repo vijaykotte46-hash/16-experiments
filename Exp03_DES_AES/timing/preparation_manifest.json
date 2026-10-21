@@ -1,0 +1,21 @@
+{
+  "status": "prepared; not executed in CrypTool",
+  "input_bytes": 8388608,
+  "input_sha256": "bef2907af29d8f250435996d40e702e2aabf6274fa3f69b21b4cc4ebfb582591",
+  "mode": "ECB",
+  "padding": "PKCS#7",
+  "encoding": "ASCII",
+  "scope": "whole workflow including conversion and limited output preview; not isolated cipher time",
+  "files": [
+    {
+      "name": "DES_ECB_Timing_8MiB.cwm",
+      "sha256": "23974aeea962458e0814d60eb72e5e125e3bf82cd36aea5790eef66297259ff9",
+      "bytes": 46023
+    },
+    {
+      "name": "AES256_ECB_Timing_8MiB.cwm",
+      "sha256": "435c295047b21afa352ac2f0043a404f5d79accdcaa7222e1ee2a443b158a939",
+      "bytes": 46095
+    }
+  ]
+}

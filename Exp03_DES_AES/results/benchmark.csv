@@ -1,0 +1,4 @@
+cipher,input_bytes,ciphertext_bytes,median_ms,min_ms,max_ms,trials,round_trip
+des-cbc,1048576,1048584,22.254,19.242,26.437,5,True
+aes-128-cbc,1048576,1048592,5.603,5.056,6.238,5,True
+aes-256-cbc,1048576,1048592,5.148,4.734,6.452,5,True
